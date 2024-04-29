@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- GitHub repo URL: [GitHub repo URL](https://your-solution-url.com)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- GitHub repo URL: [GitHub repo URL](https://github.com/KrishnaPoddar1/BaseApparel.git)
+- Live Site URL: [Live site URL](https://krishnapoddar1.github.io/BaseApparel/)
 
 ## My process
 
